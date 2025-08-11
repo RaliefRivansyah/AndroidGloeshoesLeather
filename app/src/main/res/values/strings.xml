@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gloeshoes Leather</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Sepatu Handmade berbahan kulit asli dilengkapi anti jamur dan bebas kanker.
+    Bebas custom model apa saja dengan tingkat kemiripan 90 - 99% yang diproduksi oleh pengrajin kami dengan teliti dan detail yang rapi.
+    Bagian dalam sepatu yang lembut sangat cocok dipakai untuk musim dingin maupun panas.
+    sol sepatu yang terbuat dari bahan rubber/karet anti slip bisa request ukuran menyesuaikan bentuk kaki.
+    kami memberikan garansi reparasi 1 tahun untuk semua produk sepatu kulit kami.</string>
+</resources>

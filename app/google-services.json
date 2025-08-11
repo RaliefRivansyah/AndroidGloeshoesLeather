@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "346973837134",
+    "firebase_url": "https://bejad-424006-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bejad-424006",
+    "storage_bucket": "bejad-424006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346973837134:android:2d8abe336d5b87ea2f301f",
+        "android_client_info": {
+          "package_name": "com.example.asifkhan.bookgalleryfirebase.activities"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclQ8DxqLnXAB3vmaIeCS5d8d5ZltLPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346973837134:android:f773e696dd22f18e2f301f",
+        "android_client_info": {
+          "package_name": "com.example.javacartproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclQ8DxqLnXAB3vmaIeCS5d8d5ZltLPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
