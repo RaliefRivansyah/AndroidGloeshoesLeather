@@ -1,5 +1,5 @@
-# JavaCartProject
-## JavaCartProject is an Android application that allows users to browse and purchase products using a local database and static array list
+# Gloeshoes Leather
+## Gloeshoes Leather is an Android application
 
 ### Features
 Users can view a list of products with their images, names, and prices.
@@ -8,7 +8,7 @@ Users can increase or decrease the quantity of products in their cart, or remove
 Users can view a list of their cart items and the total cost of their cart.
 
 ### Installation
-> To install the JavaCartProject application, 
+> To install the Gloeshoes Leather application, 
 > download the project source code and import it into Android Studio. 
 > Build and run the application on an Android emulator or physical device.
 
