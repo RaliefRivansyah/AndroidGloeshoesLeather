@@ -22,5 +22,3 @@ Users can view a list of their cart items and the total cost of their cart.
 > users can increase or decrease the quantity of products in their cart, 
 > or remove products from their cart. The total cost of their cart will be 
 > displayed at the bottom of the screen.
-
-#### Made by Matan Dessaur
